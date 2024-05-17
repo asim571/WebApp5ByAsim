@@ -250,3 +250,4 @@ D:\Lab 2 NCC\WebApp5ByAsim\WebApp5ByAsim\bin\Debug\net8.0\runtimes\win\lib\net7.
 D:\Lab 2 NCC\WebApp5ByAsim\WebApp5ByAsim\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Lab 2 NCC\WebApp5ByAsim\WebApp5ByAsim\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Lab 2 NCC\WebApp5ByAsim\WebApp5ByAsim\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Lab 2 NCC\WebApp5ByAsim\WebApp5ByAsim\obj\Debug\net8.0\WebApp5ByAsim.sourcelink.json
